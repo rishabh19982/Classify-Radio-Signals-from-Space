@@ -1,0 +1,5 @@
+dataset/ filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+dataset/train/images.csv filter=lfs diff=lfs merge=lfs -text
+dataset/validation/images.csv filter=lfs diff=lfs merge=lfs -text
